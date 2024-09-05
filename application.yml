@@ -1,7 +1,3 @@
-spring:
- appplication:
-  name: HotelService
-
 eureka:
   instance:
     prefer-ip-address: true
